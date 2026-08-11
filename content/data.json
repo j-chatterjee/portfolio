@@ -781,6 +781,17 @@
       "credentialUrl": "https://moonshot.scaler.com/s/sl/UCFXN5B9ss",
       "description": "",
       "image": "images/certificates/1783499077517_92d5e60a6ac332fa755b712f80f4b542e80388f8c15058f1c47c4bd4ddc2da8d.png"
+    },
+    {
+      "id": 1786471208766,
+      "title": "Building & Using Custom VS Code Agents",
+      "issuer": "Inadev",
+      "date": "July 2026",
+      "category": "AI",
+      "credentialId": "",
+      "credentialUrl": "",
+      "description": "",
+      "image": "images/certificates/1786471236783_Screenshot 2026-08-11 232911.png"
     }
   ],
   "contact": {
